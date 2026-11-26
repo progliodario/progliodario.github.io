@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.progliodario.playlistplayer",
+      "sha256_cert_fingerprints": [
+        "0F:3B:06:28:68:CB:DD:43:CA:C2:E8:F4:41:27:2C:B4:40:B9:03:FE:99:99:F6:B3:E8:0D:00:36:37:AC:03:6F"
+      ]
+    }
+  }
+]
